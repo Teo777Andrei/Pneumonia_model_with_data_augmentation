@@ -12,7 +12,7 @@ Before training  , first data augmentation procedure  is done on first class (NO
 
 after augmentation both classes have almost the same number of images.
 
-second augmentation procedure  is done during training (ImageDataGen( .. ).flow_from_directory( .. )) . The images are generated in  grayscale ,during data generation while training  . 
+second augmentation procedure  is done during training . The images are generated in  grayscale ,during data generation while training  . 
 
 
 --------- MODEL summary ----------
